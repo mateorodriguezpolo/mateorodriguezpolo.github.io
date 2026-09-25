@@ -1,6 +1,6 @@
 # My website
 
-Welcome! I’m Mateo Rodriguez Polo, a PhD candidate in Mathematics at ETH Zürich.
+Welcome! I’m Mateo Rodríguez Polo, a PhD candidate in Mathematics at ETH Zürich.
 
 On my website you can find my research interests, publications, talks, teaching, and CV.
 
